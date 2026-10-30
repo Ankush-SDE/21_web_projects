@@ -7,7 +7,7 @@ body{
     text-align: center;
 }
 .container{
-    height: 71vh; /* vh stands for Viewport Height --  relative to screen height */
+    height: 70vh; /* vh stands for Viewport Height --  relative to screen height */
     display: flex;
     justify-content: center;
     align-items: center;
