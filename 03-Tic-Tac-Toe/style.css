@@ -13,8 +13,8 @@ body{
     align-items: center;
 }
 .box{
-    height: 18vmin;  /*vmin Takes minimum of (width, height)*/
-    width: 18vmin;
+    height: 17vmin;  /*vmin Takes minimum of (width, height)*/
+    width: 17vmin;
     border-radius: 2rem;
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
